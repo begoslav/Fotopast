@@ -1,3 +1,1 @@
 # Fotopast
-
-![[Dokumentace.md]]
