@@ -1,4 +1,4 @@
 # Fotopast
 
-- [Návrh řešení](Postup návrhu.md)
+- [Návrh řešení](Navrh.md)
 - [Dokumentace](Dokumentace.md)
